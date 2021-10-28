@@ -1,0 +1,5 @@
+INFO 2021-10-29 00:11:47,063 - Completed reading of file1
+INFO 2021-10-29 00:11:47,064 - Completed reading of file2
+INFO 2021-10-29 00:11:47,109 - Created Diff file with records to Insert
+INFO 2021-10-29 00:11:47,110 - Created Diff file with records to delete
+INFO 2021-10-29 00:11:47,128 - Created merged file
